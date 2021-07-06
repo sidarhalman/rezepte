@@ -1,0 +1,21 @@
+* {
+    font-family: 'Dancing Script', cursive;
+}
+ul, p {
+    font-size: 20px;
+    font-weight: bold;
+    color: #444444;
+}
+body {
+    background-image: linear-gradient(to bottom right, #FFE194,#78DEC7 );
+}
+
+h1 {
+    text-align: center;
+    color: #444444;
+    letter-spacing: 30px;
+    text-shadow: 5px 5px 5px black;
+}
+ .pelik-foto {
+     border-radius: 10px;
+ }
